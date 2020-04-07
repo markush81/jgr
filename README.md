@@ -11,7 +11,7 @@
 
 1. Install R from [r-project.org](https://www.r-project.org)
 2. Install dependent packages from within R `install.packages(c('rJava','JavaGD'))`
-2. Install packages from within R `install.packages('https://github.com/markush81/JGR/releases/download/1.9-1/JGR_1.9.1.tar.gz',repos=NULL)`
+2. Install packages from within R `install.packages('https://github.com/markush81/JGR/releases/download/1.9-1/JGR_1.9-1.tar.gz',repos=NULL)`
    
    ```
     R version 3.4.1 (2017-06-30) -- "Single Candle"
@@ -34,7 +34,7 @@
     
     [Vorher gesicherter Workspace wiederhergestellt]
     
-    > install.packages('https://github.com/markush81/JGR/releases/download/1.9-1/JGR_1.9.1.tar.gz',repos=NULL)
+    > install.packages('https://github.com/markush81/JGR/releases/download/1.9-1/JGR_1.9-1.tar.gz',repos=NULL)
     installiere auch Abhängigkeiten ‘rJava’, ‘JavaGD’
     
     
